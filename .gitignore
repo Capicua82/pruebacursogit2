@@ -1,0 +1,5 @@
+# aqui van todos los archivos que no quiero 
+# que sean trackeados
+
+imagenes/
+no_me_trackees.txt
